@@ -10,3 +10,4 @@ I intend for everyone who has worked on this project to be a contributor to this
 Cavell Diaz >:P
 Alex Bae
 Tina Le
+Suleman JJ Katamba
