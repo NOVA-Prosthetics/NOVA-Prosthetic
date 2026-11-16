@@ -8,3 +8,4 @@ https://nova-prosthetics.github.io/NOVA-Prosthetic/
 I intend for everyone who has worked on this project to be a contributor to this repo, so create a Github account if you don't have one, then DM me your email so I can add you.
 
 Cavell Diaz
+Tina Le
